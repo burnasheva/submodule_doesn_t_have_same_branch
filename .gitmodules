@@ -1,0 +1,3 @@
+[submodule "repository_doesn_t_have_master"]
+	path = repository_doesn_t_have_master
+	url = https://github.com/burnasheva/repository_doesn_t_have_master.git
